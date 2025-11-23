@@ -1,4 +1,4 @@
-# 🧠 Cloudflare Agents
+https://developers.cloudflare.com/style-guide/ai-tooling/# 🧠 Cloudflare Agents
 
 ![npm install agents](assets/npm-install-agents.svg)
 
